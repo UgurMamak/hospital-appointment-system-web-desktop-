@@ -1,0 +1,112 @@
+﻿#divUstResim {
+    margin-left:auto;
+    margin-right:auto;
+    height:350px;
+width:1000px;
+}
+.bosluk {
+    height: 25px;
+    width: 1000px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+/*#divmenü{
+    margin-left:auto;
+    margin-right:auto;
+    height:40px;
+   background-color:white;
+   width:1000px;
+}*/
+#anaekran {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: auto;
+    background-color: #72bde6;
+}
+
+.auto-style2:hover{
+    font-size:20px;
+    background-color:dodgerblue;
+    cursor:pointer;
+}
+#divmenü {
+    width: 1000px;
+    list-style-type: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#divmenü li {
+    float: left;
+    width: 150px;
+    position: relative;
+   
+}
+
+
+#divmenü a {
+     font-family: Arial;
+     font-size: 15px;
+     color: white;
+     text-decoration: none;
+     background-color: #72bde6;
+     display: block;
+     padding-top: 5px;
+     padding-right: 5px;
+     border: 1px solid #9fb2bc;
+     text-align: center;
+    line-height: 30px;
+    margin-right: 2px;
+    
+    border-radius:5px;
+    
+}
+
+
+#divmenu a:hover {
+    background-color: #fff;
+    color:#000;
+    font-size:20px;
+
+   
+}
+
+/*a:link{text-decoration:none;}
+a:visited {
+    text-decoration: none;color: #091b7c;
+}
+a:active { text-decoration: none;}
+a:hover {text-decoration: underline;}*/
+.textbox {
+    margin-left:auto;
+    margin-right:auto;
+    border: 1px solid #848484;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    outline: 0;
+    height: 25px;
+    width: 275px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:white;
+}
+.textboxkenar {
+    -moz-border-radius-topright: 30px;
+    -webkit-border-top-right-radius: 30px;
+    border-top-right-radius: 30px;
+    -moz-border-radius-bottomright: 30px;
+    -webkit-border-bottom-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border: 2px solid #848484;
+  background-color:white;
+    outline: 0;
+    height: 25px;
+    width: 275px;
+    padding-right: 10px;
+}
+
+

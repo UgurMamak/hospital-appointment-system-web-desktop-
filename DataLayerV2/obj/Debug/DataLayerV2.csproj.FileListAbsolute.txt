@@ -1,0 +1,4 @@
+c:\users\ugur\documents\visual studio 2015\Projects\stajyerEgitimV2\DataLayerV2\bin\Debug\DataLayerV2.dll
+c:\users\ugur\documents\visual studio 2015\Projects\stajyerEgitimV2\DataLayerV2\bin\Debug\DataLayerV2.pdb
+c:\users\ugur\documents\visual studio 2015\Projects\stajyerEgitimV2\DataLayerV2\obj\Debug\DataLayerV2.dll
+c:\users\ugur\documents\visual studio 2015\Projects\stajyerEgitimV2\DataLayerV2\obj\Debug\DataLayerV2.pdb

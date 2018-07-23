@@ -1,0 +1,5 @@
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\DataLayer\bin\Release\DataLayer.dll
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\DataLayer\obj\Release\DataLayer.dll
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\DataLayer\obj\Release\DataLayer.pdb
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\DataLayer\obj\Release\DataLayer.csprojResolveAssemblyReference.cache

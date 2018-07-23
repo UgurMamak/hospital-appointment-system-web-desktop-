@@ -1,0 +1,8 @@
+c:\users\ugur\documents\visual studio 2015\Projects\stajyerEgitimV2\stajyerEgitimV3\bin\Debug\stajyerEgitimV3.exe.config
+c:\users\ugur\documents\visual studio 2015\Projects\stajyerEgitimV2\stajyerEgitimV3\bin\Debug\stajyerEgitimV3.exe
+c:\users\ugur\documents\visual studio 2015\Projects\stajyerEgitimV2\stajyerEgitimV3\bin\Debug\stajyerEgitimV3.pdb
+c:\users\ugur\documents\visual studio 2015\Projects\stajyerEgitimV2\stajyerEgitimV3\bin\Debug\DataLayerV2.dll
+c:\users\ugur\documents\visual studio 2015\Projects\stajyerEgitimV2\stajyerEgitimV3\bin\Debug\DataLayerV2.pdb
+c:\users\ugur\documents\visual studio 2015\Projects\stajyerEgitimV2\stajyerEgitimV3\obj\Debug\stajyerEgitimV3.csprojResolveAssemblyReference.cache
+c:\users\ugur\documents\visual studio 2015\Projects\stajyerEgitimV2\stajyerEgitimV3\obj\Debug\stajyerEgitimV3.exe
+c:\users\ugur\documents\visual studio 2015\Projects\stajyerEgitimV2\stajyerEgitimV3\obj\Debug\stajyerEgitimV3.pdb

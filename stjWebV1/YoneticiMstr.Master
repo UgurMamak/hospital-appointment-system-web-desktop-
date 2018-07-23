@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="YoneticiMstr.master.cs" Inherits="stjWebV1.YoneticiMstr" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Yoneticicss.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder> 
+</head>
+<body>
+    
+    <form id="form1" runat="server">
+        
+<%--    <div id="divUstResim">
+        <asp:Image ID="Image1" runat="server" Height="300px" Width="950px" ImageUrl="~/Resimler/yöneticiUstResim.jpg" />
+        </div>
+        <div class="bosluk"></div>--%>
+        <div id="tabs25">
+            <table >
+                <tr>
+                    <td ><a href="WfrmAnaSayfa.aspx"> Ana sayfa</a></td>
+                    <td><a href="WfrmHastane.aspx">hastane kayıt</a></td>
+                    <td><a href="WfrmKlinik.aspx">klinik kayıt</a></td>
+                    <td><a href="WfrmDoktor.aspx">doktor Kayıt</a></td>
+                    <td><a href="WfrmSaat.aspx">Saat kayıt</a></td>
+                    <td><a href="WfrmDoktorCP.aspx">doktor çalışma planı</a></td>
+                    <td><a href="WfrmYoneticiEkle.aspx">yönetici ekle</a></td>
+                </tr>
+            </table>
+        </div>
+        <div class="bosluk"></div>
+        <div id="divAnayer">              
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">                      
+                <p>
+                    &nbsp;</p>
+        </asp:ContentPlaceHolder>
+            
+        </div>
+    </form>
+</body>
+</html>
+
+ 

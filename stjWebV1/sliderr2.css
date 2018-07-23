@@ -1,0 +1,21 @@
+﻿.slideWrapper {
+            position: relative;            
+            margin: 0 auto;
+             
+     width:450px;
+    height:500px;  
+  
+        }
+
+            .slideWrapper img {
+                position:absolute;
+                top: 0;
+                left: 0px;
+                display: none;
+              
+            }
+
+                .slideWrapper img:nth-child(1) {
+                    display: block;
+                   
+                }

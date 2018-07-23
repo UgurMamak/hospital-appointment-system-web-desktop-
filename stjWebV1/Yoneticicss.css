@@ -1,0 +1,67 @@
+﻿#divUstResim
+{
+    
+    margin-left:auto;
+    margin-right:auto;
+    height:300px;
+    width:950px;
+}
+
+.bosluk{
+    margin-left:auto;
+    margin-right:auto;
+    height:25px;
+    width:750px;
+}
+#divAnayer{
+    margin-left:auto;
+    margin-right:auto;
+    height:auto;
+    width:750px;
+    background-color:#51b8e8; 
+	border-radius:10px;
+}
+.txt{
+	border:2px solid #456879;
+	border-radius:10px;
+   
+	}
+.btn {
+	border: 2px solid #777;
+	border-radius: 10px;
+	outline: none;
+}
+.btn:hover{background-color:#808080;cursor:pointer;}
+
+#tabs25{
+    width:1000px;
+    margin:auto;
+     position:relative;
+     display:block;
+     height:40px;
+     font-size:11px;
+     font-weight:bold;
+     background:transparent url(Resimler/blueslate_background.gif) repeat-x top left;
+     font-family:Arial,Verdana,Helvitica,sans-serif;
+          text-transform:uppercase;}
+
+
+#tabs25 tr{margin:0px;padding:0;list-style-type:none;width:auto; font-size:11px;}
+
+#tabs25 tr td{display:block;float:left;margin:0 1px 0 0;font-size:11px;}
+
+#tabs25 tr td a{
+    display:block;
+    float:left;
+    color:#D5F1FF;
+    text-decoration:none;
+    padding:14px 22px 0 22px;
+    height:28px;font-size:11px;}
+
+#tabs25 tr td a:hover,#tabs25 tr td a.current{
+    color:#fff;
+    background:transparent url(Resimler/blueslate_backgroundOVER.gif) no-repeat top center;font-size:11px;}
+    
+
+
+  

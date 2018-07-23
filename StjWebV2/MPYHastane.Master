@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MPYHastane.master.cs" Inherits="StjWebV2.MPYHastane" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <%-- <div id="divUstResim">
+     <asp:Image ID="Image1" runat="server" width="1000px" height="350px" ImageUrl ="~/Resimler/cropped-health_bg2.jpg" />
+        </div>--%>
+        <div class="bosluk"></div>
+        <div id="divmenü" class="divmenü">
+            <table class="auto-style1">
+                <tr>
+                    <td class="divmenü a"><a href="WfrmAnaSayfa.aspx">Ana Sayfa</a></td>
+                    <td class="divmenü a"><a href="WfrnHastaneKayit.aspx">Hastane Kayıt</a></td>
+                    <td class="divmenü a"><a href="WfrmKlinikKayit.aspx">Klinik Kayıt</a></td>
+                    <td class="divmenü a"><a href="WfrmDoktorKayit.aspx">Doktor Kayıt</a></td>
+                    <td class="divmenü a"><a href="WfrmSaatKayit.aspx">Saat Kayıt</a></td>
+                    <td class="divmenü a"><a href="WfrmCalismaPlani.aspx">Çalışma Planı</a></td>
+                    <td class="divmenü a"><a href="WfrmYoneticiKayit.aspx">Yönetici Kayıt</a></td>
+                </tr>
+            </table>
+        </div>
+        <div class="bosluk"></div>
+        <div id="anaekran">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <br />
+            <br />
+
+        </div>
+    </form>
+
+</body>
+</html>

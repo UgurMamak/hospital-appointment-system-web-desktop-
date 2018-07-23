@@ -1,0 +1,17 @@
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\bin\Release\stjWinV1.exe.config
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\bin\Release\stjWinV1.exe
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\bin\Release\stjWinV1.pdb
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\bin\Release\DataLayer.dll
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\bin\Release\DataLayer.pdb
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\obj\Release\stjWinV1.csprojResolveAssemblyReference.cache
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\obj\Release\stjWinV1.Form1.resources
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\obj\Release\stjWinV1.frmHastaGirisi.resources
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\obj\Release\stjWinV1.frmHastaKayit.resources
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\obj\Release\stjWinV1.frmHastane.resources
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\obj\Release\stjWinV1.frmRandevu.resources
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\obj\Release\stjWinV1.frmYoneticiGiris.resources
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\obj\Release\stjWinV1.Properties.Resources.resources
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\obj\Release\stjWinV1.csproj.GenerateResource.Cache
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\obj\Release\stjWinV1.exe
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\obj\Release\stjWinV1.pdb
+C:\Users\UGUR\documents\visual studio 2015\Projects\stajyerEgitimV2\stjWinV1\obj\Release\stjWinV1.frmRandevuBilgi.resources
